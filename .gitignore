@@ -1,0 +1,15 @@
+TAGS
+*.DS_Store
+*~
+.livereload
+node_modules/
+*.orig
+static/dist/min/
+static/dist/*_styles.bundle.js
+*.swp
+*.swo
+*.css.map
+*.js.map
+.cache/
+config.yml
+npm-debug.log
